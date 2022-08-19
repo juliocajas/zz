@@ -1,0 +1,44 @@
+#EXTM3U
+#EXTM3U list-name="Canales Latinos ðŸ˜" list-image="https://i.ibb.co/y5WvHvw/Tvlogo.png"
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HdKSxVB/5bb7948502f9a1d774cf5ef8b47b7042.jpg" tvg-group="ECUADOR", OROMAR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sv.spliktv.xyz/live/key/cc/goltv.json 
+https://sv.spliktv.xyz/live/dash/HA/0.mpd
+
+
+
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HdKSxVB/5bb7948502f9a1d774cf5ef8b47b7042.jpg" tvg-group="ECUADOR", OROMAR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sv.spliktv.xyz/live/key/cc/goltv.json 
+https://1134-vos.dtvott.com/DASH/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HdKSxVB/5bb7948502f9a1d774cf5ef8b47b7042.jpg" tvg-group="ECUADOR", OROMAR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sv.spliktv.xyz/live/key/cc/goltv.json 
+https://1134-vos.dtvott.com/manifest.mpd
+
+
+
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HdKSxVB/5bb7948502f9a1d774cf5ef8b47b7042.jpg" tvg-group="ECUADOR", OROMAR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sv.spliktv.xyz/live/key/cc/goltv.json 
+https://sv.spliktv.xyz/live/manifest.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HdKSxVB/5bb7948502f9a1d774cf5ef8b47b7042.jpg" tvg-group="ECUADOR", OROMAR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sv.spliktv.xyz/live/key/cc/goltv.json 
+https://sv.spliktv.xyz/live/dash/HA/manifest.mpd
+
+
+
+https://api54.tvgratis.live/streams/1251/manifest.mpd
